@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\pttiw\\OneDrive\\Desktop\\ETH-AVAX-Intermediate\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1694841553067,
+      "contentHash": "26c8767f0884da19a32c19747749043b",
+      "sourceName": "contracts/Assessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "Assessment"
+      ]
+    },
+    "C:\\Users\\pttiw\\OneDrive\\Desktop\\Three-level-password-authentication-system\\ETH-AVAX-Intermediate\\contracts\\Assessment.sol": {
+      "lastModificationDate": 1697095044870,
+      "contentHash": "26c8767f0884da19a32c19747749043b",
+      "sourceName": "contracts/Assessment.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "Assessment"
+      ]
+    }
+  }
+}
